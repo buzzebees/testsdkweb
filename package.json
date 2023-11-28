@@ -1,6 +1,6 @@
 {
   "name": "testsdkweb",
-  "version": "1.0.3",
+  "version": "1.0.11",
   "description": "npm init sdk",
   "main": "src/index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/buzzebees/testsdkweb/issues"
   },
-  "homepage": "https://github.com/buzzebees/testsdkweb#readme"
+  "homepage": "https://github.com/buzzebees/testsdkweb#readme",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
 }
